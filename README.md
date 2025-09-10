@@ -1,3 +1,3 @@
-# vyxmsh.github.io
+# vyxmsh
 
 ![](https://leetcard.jacoblin.cool/vyxmsh?ext=heatmap)
