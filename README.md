@@ -1,3 +1,4 @@
-# vyxmsh
+# Hi, I'm Vyomesh 👋
 
-![](https://leetcard.jacoblin.cool/vyxmsh?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vyxmsh?ext=heatmap)
+
